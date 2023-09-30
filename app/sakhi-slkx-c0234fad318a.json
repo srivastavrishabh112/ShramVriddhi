@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sakhi-slkx",
+  "private_key_id": "c0234fad318a29614cc7fe82c6eb591269d8e1c3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCdp5Np+B03Zmz7\nPLvLQ0cTu3SgYzoTGErF8KsTWtvN3zQxaRo6I075kj7wd5OjSiNuQhdb9Vdml/EO\n+M0hoTF/NMctiRZjvRkVNP50nshT38qwYr6baFg/QoA53wnzQDw6+n9oooxhPfXh\nehEGYfC7WXjmaF+XejgVKE/NjdHWk1g4bC4SIeY2TX41q1LNRgG+zLzI6oK2WD4Z\n5qrYs+CdRP8VdhEuh8GLbf92gNF5Vw+DVnqTuX/qFJGWvcPCou2iExDz7ng96dZl\nEzVC2mn4kUXTD5aZpzuCdfr05EiA20qUSH+p5ZPVKdeAUVYB0CY/94/0kqrmOBl0\nerFClpjPAgMBAAECggEAG2H62cINmQzCSxTubUyfMM8zX5Q8hwqGGkFGBZOXb/ef\nwiFGO+jcE78SDYRHcWo0Izd5hTBk4N3tMbOHNZsg1L5fBgq0h9hVXfiZZboag27w\nbpiIEMgb48jyKpsRyF1U2M2fiZYKGe3AIkyoXlpujKvqsuJYECBbU1lwGvzSAJnL\nGmz52SYO3sscGkQwi4DqS9K+1z3go65yQfAxQmt+vy7siBgUlgIArNbtXvqFpOfH\nvemyxObtvRmRkoVx0FH9IIQpQVSmGGsFCi8LhhfwgOYYJxSu9VMrQRLCcgT31ymz\nhNxmHRJmBMxDN/HdtelDqzKvh3Etj9Oy4c1jqpGm6QKBgQDXHXbG7KSXmJDgBwMr\nmqAa6OhfkK+74HOFwlf/0xLRJsjHZVdPlLqvdqHGuah4arnZB7z0kaH3xBdjPGOY\n3P7/8AYLZgIR1ULlLXdFlauyDb963ZGQLEHGImoKaNrZlJ8FVHhw2CmxTrE6AkY6\nQtvPuM4MiQ33cTjgAR0zAi3/3QKBgQC7nldt4/qqBH4ZU8feKIRxClwKDZhy6fmM\nAZd1ArBCegYEqJKEj9MsJnvLNw5xrHWpUm8Gbudd9QWlAacNX5V1I7UMFnugkMsp\nrymPcKcAlcXIO9f7odEgRM+zW4owmdfzglbLS2/BWTzzIN3jryUPYfqPoQckG5J4\ni6AempuGmwKBgQCFmRjxhnraY7hmSjSf2hJhZBEdeQCLUGSux/pbOb3QA6Riof/N\nvvMKkkT65MdKsg3mSjYCNog/Fpvn19OLVoVQcsNuRNY4ORiouMoAf2n41Sz8o6sJ\nvVLEOQ9ek6yHwRPZ/ZInkzihk9vhyRPQj0FxCrd9dYklCj5mcIqv6USkSQKBgF3M\nmw9QpFht6JFHBqy1+wj80ekgxO/mtCFgBlW0o2SI1wtrL91gfoYbM1b0zp7cRvMB\nSIqh1cBuqITHX7pa6EDpOjGx59rtqPTNIu0YuBWdy4UBDkk6rHAClwinol4L/CA9\nMKFwtI2ozMUM0IJtZQzcwkUej5BozIDB5aqHR2wzAoGBANAsoKIZdCRuJX5cUZrv\nEoYrlEK6ojGlXQbgFKpqjwzzZ0LgeqyLfW+pjGgGaB/BNtnfftQsFuk2AicU2ZlQ\nsRR+0s2w65Iwly0iWtQwVtay6xOoA2hTCSPluXfSXklnflw/BDWfHBa1jCeoJBV9\nT0gpYNPX/iOuJG4GImkZj0Fa\n-----END PRIVATE KEY-----\n",
+  "client_email": "shram-vriddhi@sakhi-slkx.iam.gserviceaccount.com",
+  "client_id": "114128230597888521819",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shram-vriddhi%40sakhi-slkx.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Shram Vriddhi</string>
+    <string-array name="Employers">
+
+        <item>Harsh Pvt Ltd.</item>
+        <item>Tsukuyomi Org</item>
+        <item>Shiva stars</item>
+
+    </string-array>
+
+    <string-array name="Mails">
+
+        <item>Last Week</item>
+        <item>Last Month</item>
+        <item>Last Year</item>
+
+    </string-array>
+
+    <string-array name="Claims">
+
+        <item>PF Advance (Form-31)</item>
+        <item>Settlement of final PF amount (Form 19)</item>
+        <item>Scheme Certificate (Form 10C)</item>
+
+    </string-array>
+
+    <string-array name="Purpose">
+
+        <item>illness</item>
+        <item>purchase/construction of house</item>
+        <item>repayment of loan</item>
+        <item> for marriage of self/daughter/son/brother</item>
+        <item> for medical treatment of family member</item>
+
+    </string-array>
+
+    <string-array name="Reason">
+
+        <item>Retirement </item>
+        <item>Death in service,</item>
+        <item>Permant Disablement</item>
+        <item> Cessation</item>
+        <item> Death </item>
+
+    </string-array>
+
+
+    <string name="title_activity_modify_basic_details_done">ModifyBasicDetailsDone</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="lineone"> • Please note that the date of exit entered by you will be displayed to the Employer and in case you are still in employment then at the time of filing of the remittances for a period after the date of exit will be shown to the employer. (ECR Module)</string>
+    <string name="linetwo">•  Please note that the date of exit entered by you will be displayed to the Employer and in case you are still in employment then at the time of filing of the remittances for a period after the date of exit will be shown to the employer. (ECR Module)</string>
+    <string name="linethree">• Date of exit can be the month for which the last contribution has been received. In case the employer has defaulted in payment and your date of exit is a later date then you have to approach the employer for updating of date.</string>
+    <string name="linefour">• The date entered is non editable and in case you have entered a wrong date erroneously then it can be corrected only by the concerned field office of EPFO on the basis of a written request of the employer to the office. The date of exit however, cannot be edited after the settlement has been taken.</string>
+    <string name="linefive">• In case you have entered the date of exit and withdrawn the amount, then the service length under the Scheme(s) will lapse and on any subsequent employment the service length will start afresh for any eligibility for pension and advances.r</string>
+    <string name="dyk1">Do you know - COVID Advance\' even after leaving service</string>
+    <string name="dyk2">EDLI Amendment - Assistance to Family and Dependents of EPF Members</string>
+</resources>

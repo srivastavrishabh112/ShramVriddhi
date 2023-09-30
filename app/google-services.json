@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1001907273140",
+    "project_id": "shram-vriddhi",
+    "storage_bucket": "shram-vriddhi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001907273140:android:c829d72e055d333fe8c6e1",
+        "android_client_info": {
+          "package_name": "com.example.shramvriddhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001907273140-5f79el8ddan1si4opl0fa5s9vnjpgdu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shramvriddhi",
+            "certificate_hash": "37b89b4fc433c9e4691783ea8dfcac814950442b"
+          }
+        },
+        {
+          "client_id": "1001907273140-ohpf57na4ri141l0r0tm1a222p3ojisi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeYsrNdKAwnJNPAby1zl6AJs2V9BcKAjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001907273140-ohpf57na4ri141l0r0tm1a222p3ojisi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

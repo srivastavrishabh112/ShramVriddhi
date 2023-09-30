@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+       <item
+           android:id="@+id/miHome"
+           android:title="Home"
+           android:icon="@drawable/home_button" />
+
+    <item
+            android:id="@+id/miPassbook"
+            android:title="Passbook"
+            android:icon="@drawable/pb"/>
+
+     <item
+            android:id="@+id/miWithdraw"
+            android:title="Withdraw"
+            android:icon="@drawable/money_withdrawal"/>
+
+     <item
+             android:id="@+id/miMails"
+             android:title="Notifications"
+             android:icon="@drawable/msg"/>
+
+     <item
+              android:id="@+id/miProfile"
+              android:title="Profile"
+              android:icon="@drawable/profile"/>
+
+</menu>
